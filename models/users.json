@@ -2,7 +2,7 @@
   "gender": "female",
   "name": {
     "title": "miss",
-    "first": "alison",
+    "first": "jane",
     "last": "reid"
   },
   "location": {
@@ -11,7 +11,7 @@
     "state": "ohio",
     "zip": 28782
   },
-  "email": "alison.reid@example.com",
+  "email": "jane.reid@example.com",
   "username": "tinywolf709",
   "password": "rockon",
   "salt": "lypI10wj",

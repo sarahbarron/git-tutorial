@@ -1,6 +1,6 @@
 {
   "name": "user-api",
-  "version": "232.0.0",
+  "version": "233.0.0",
   "description": "Basic RESTful User Management API",
   "main": "app.js",
   "author": "Red Hat",

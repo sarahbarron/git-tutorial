@@ -2,7 +2,7 @@ var fs = require('fs');
 var _ = require('underscore');
 
 function User() {
-  this._data = JSON.parse(fs.readFileSync(__dirname + '/users.json', 'utf8'));
+  this._data = JSON.parse(fs.readFileSync(__dirname + '/users.json', 'hex'));
 }
 
 

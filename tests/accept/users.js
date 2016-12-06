@@ -30,7 +30,7 @@ describe('Users', function() {
         .end(function(err, res) {
           res.body.should.be.a('array');
           res.should.have.status(200);
-          res.body.length.should.be.eql(100);
+          res.body.length.should.be.eql(101);
           done();
         });
     });
